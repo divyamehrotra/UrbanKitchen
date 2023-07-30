@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.header{
+    /* border: 2px solid yellow; */
+    text-align: center;
+    background-color: bisque;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 2px;
+    top: 10px;
+}
+.left img{
+    height: 116px;
+    width: 123px;
+}
+.title{
+    /* border: 2px solid red; */
+    display: inline-block;
+    font-size: 114px;
+}
+.main img{
+    width: 100%;
+    display: fixed;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px 50px;
+}
+
+/* .container img{
+    ma
+} */

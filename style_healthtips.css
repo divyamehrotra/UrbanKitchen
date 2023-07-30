@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(240, 237, 233);
+    background-image:url(/img/download.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    border-radius: 12px;
+    border-left: 0px;
+    border-right: 0px;
+    font-family: 'EB Garamond', serif;
+    
+}
+.box_left
+{
+    border: 2px solid rgb(12, 5, 5);
+    margin: 29px 97px;
+    font-size: 20px;
+    /* width: 880px; */
+    
+}
+.box h2{
+    text-align: center;
+}
+.topic{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+}
+.content{
+    margin: 10px 28px;
+}
